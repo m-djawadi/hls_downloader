@@ -9,6 +9,7 @@ __pycache__/
 *.webm
 *.ts
 *.m4a
+*.downloader.py
 
 # Temporary files
 *.part
