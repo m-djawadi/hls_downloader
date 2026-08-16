@@ -1,0 +1,26 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Downloaded media
+*.mp4
+*.mkv
+*.webm
+*.ts
+*.m4a
+
+# Temporary files
+*.part
+*.ytdl
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local configuration / secrets
+.env
+*.env
+cookies.txt
